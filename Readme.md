@@ -3,7 +3,7 @@
 
 ## 👨‍💻 About Me
 
-A passionate Computer engineering Student. I love exploring innovative technologies, building efficient solutions, and learning something new every day. 
+A passionate Computer engineering Student. Exploring innovative technologies, building efficient solutions, and learning something new every day. 
 
 ## 🛠️ Skills & Technologies
 
