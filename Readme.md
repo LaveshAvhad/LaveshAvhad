@@ -1,7 +1,7 @@
 
 
 # <h1 align="center">Hi, I'm Lavesh! 👋</h1>  
-<h3 align="center">🚀 Computer Engineering Student | Tech Enthusiast | Cybersecurity Learner</h3>  
+<h3 align="center">🚀 Computer Engineering Student | Tech Enthusiast </h3>  
 
 ## 🚀 About Me  
 💡 Passionate about coding, problem-solving, and exploring cutting-edge technologies.  
