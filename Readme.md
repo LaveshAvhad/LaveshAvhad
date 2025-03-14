@@ -6,9 +6,8 @@
 ## 🚀 About Me  
 💡 Passionate about coding, problem-solving, and exploring cutting-edge technologies.  
 🔍 Currently diving deep into **Android Development**.  
-🎯 Always eager to **learn, innovate, and contribute** to open-source projects.  
+🎯 Always eager to **learn, innovate, and contribute** .  
 📚 Exploring **AI and DevOps**.  
-
 
 
 ## 🛠️ Tech Stack & Tools  
