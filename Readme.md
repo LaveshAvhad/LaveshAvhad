@@ -52,13 +52,6 @@
 
 
 
-## 🚀 Current GitHub Streak  
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LaveshAvhad&theme=tokyonight" alt="GitHub Streak"/>
-</p>
-
-
-
 ## 🌎 Profile Visitors  
 ![Profile Views](https://komarev.com/ghpvc/?username=LaveshAvhad&label=Profile%20Views&color=0e75b6&style=flat)
 
