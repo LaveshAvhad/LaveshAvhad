@@ -42,7 +42,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LaveshAvhad&show_icons=true&theme=tokyonight&count_private=true" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LaveshAvhad&theme=tokyonight" height="180px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaveshAvhad&layout=compact&theme=tokyonight" height="180px"/>
 </div>
 
