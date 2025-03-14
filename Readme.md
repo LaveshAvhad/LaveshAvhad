@@ -5,7 +5,7 @@
 
 ## 🚀 About Me  
 💡 Passionate about coding, problem-solving, and exploring cutting-edge technologies.  
-🔍 Currently diving deep into **Android Development **.  
+🔍 Currently diving deep into **Android Development**.  
 🎯 Always eager to **learn, innovate, and contribute** to open-source projects.  
 📚 Exploring **AI and DevOps**.  
 
@@ -32,7 +32,7 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white&style=for-the-badge)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge)
 
-### ⚙️ DevOps and more 
+### ⚙️ Git and more 
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
